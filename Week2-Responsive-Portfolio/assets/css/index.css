@@ -1,0 +1,124 @@
+
+    
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color:#ffffff;
+    border-color: #cccccc;
+
+}
+.myname {
+    padding-top: 15px;
+    padding-left: 13px;
+    padding-right: 13px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    margin: 0px;
+}
+.container {
+    position: relative;
+  }
+  
+  .text-block {
+    position: sticky;
+    bottom: 5px;
+    right: 5px;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+.about {
+    margin-left:24px;
+    padding-bottom: 26px;
+
+}
+.contact {
+    margin-left: 24px;
+    padding-bottom: 26px;
+}
+.action_page.php {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 26px;
+}
+.portfolio {
+    margin-left: 24px;
+    padding-bottom: 26px;
+}
+.parent-content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    min-height: 750px;
+}
+.box {
+        border:2px solid #dddddd;
+        width: 960px;
+        background-color: #ffffff;
+        margin-top:63px;
+    }
+body {
+    background-image: url("../images/embossed-diamond.png");
+    margin:0;
+}
+.links {
+    padding-bottom: 29px;
+    padding-top:25.5px;
+    width: 15%;
+    font-size:1.2em;
+    display:flex;
+    justify-content: space-between;
+}
+h2 {
+    color: #4aaaa5;
+    width: 95%;
+}
+    
+h2, .header {
+    border-bottom: 2px solid #cccccc;
+}
+
+.related-links {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a {
+    color:#777777;
+}
+
+
+img {
+    display:flex;
+    justify-content:center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 450px;
+}
+.image {
+    display:flex;
+    justify-content: center;
+}
+.paragraph {
+    display:flex;
+    align-items:flex-end;
+}
+p {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+footer {
+    border-top: 7px solid teal;
+    padding-bottom: 27px;
+    background-color: #666666;
+}
+
+
+
+
+
+
+
+
+
