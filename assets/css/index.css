@@ -82,9 +82,10 @@ img {
     padding-left: 5px;
     padding-right: 5px;
   }
-.about {
+ .about {
     margin-left:24px;
     padding-bottom: 26px;
+    padding-top: 24px;
 
 }
 .contact {
