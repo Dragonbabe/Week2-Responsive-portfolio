@@ -3,10 +3,16 @@
     transition: 0.3;
 }
 .project-link {
+    text-align: center;
     color: purple;
 }
 
+.action {
+    text-align:center;
+}
+
 .hw5-link {
+    text-align: center;
     color: blue;
 }
 
@@ -23,6 +29,7 @@
 }
 
 .hw6-link {
+    text-align: center;
     color: royalblue;
 }
 img {
