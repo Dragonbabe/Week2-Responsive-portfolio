@@ -3,7 +3,7 @@
     transition: 0.3;
 }
 .project-link {
-    text-align: center;
+    
     color: purple;
 }
 
@@ -12,8 +12,13 @@
 }
 
 .hw5-link {
-    text-align: center;
+    
     color: blue;
+}
+
+.gh {
+    text-align:center;
+
 }
 
 .mm {
@@ -28,8 +33,11 @@
     text-align:center;
 }
 
+.lili {
+    text-align:center;
+}
 .hw6-link {
-    text-align: center;
+    
     color: royalblue;
 }
 img {
@@ -64,10 +72,6 @@ img {
 .container {
     position: relative;
   }
-.form-container {
-    padding-left:10px;
-    padding-right:10px;
-}
   
   .text-block {
     position: sticky;
