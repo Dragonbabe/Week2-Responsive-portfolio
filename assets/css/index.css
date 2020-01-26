@@ -4,7 +4,7 @@
 }
 .project-link {
     
-    color: purple;
+    color: blue;
 }
 
 .action {
@@ -42,6 +42,7 @@
 }
 img {
     border-radius: 5px 5px 0 0;
+    border-color: #003333;
 }
 
 .card:hover {
@@ -66,7 +67,7 @@ img {
     padding-left: 13px;
     padding-right: 13px;
     color: #ffffff;
-    background-color: #4aaaa5;
+    background-color: #669999;
     margin: 0px;
 }
 .container {
@@ -83,9 +84,12 @@ img {
     padding-right: 5px;
   }
  .about {
-    margin-left:24px;
+     color: #003333;
+    margin-left:25px;
+    margin-right:25px;
     padding-bottom: 26px;
     padding-top: 24px;
+    background-color: #669999;
 
 }
 .contact {
@@ -100,6 +104,8 @@ img {
     margin-left: 24px;
     padding-bottom: 26px;
     padding-top: 24px;
+    color: #003333;
+    background-color: #669999;
 }
 .parent-content {
     width: 100%;
@@ -162,12 +168,25 @@ img {
 p {
     margin-left: 24px;
     margin-right: 24px;
+    background-color: #669999;
 }
 footer {
     border-top: 7px solid teal;
     padding-bottom: 27px;
-    background-color: #666666;
+    background-color: #003333;
 }
+.myname {
+    color: #003333;
+}
+.style {
+    color: #003333;
+}
+
+.contact {
+    color: #003333;
+    background-color: #669999;
+}
+
 
 
 

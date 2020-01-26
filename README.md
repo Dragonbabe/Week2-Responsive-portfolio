@@ -1,7 +1,7 @@
 # The Portfolio of Esther Walker #
 
 # Description #
-* This was my second homework assignment initially. It started out with just html and css. And then a little bit later I learned about Bootstrap and I added that into my file. And now I actually added some of my projects and homework assignments to it!
+* This was my second homework assignment initially. It started out with just html and css. And then a little bit later I learned about Bootstrap and I added that into my file. And now I actually added some of my projects and homework assignments to it! I used a color palette for the first time. I had never used one before and I don't feel like I got my design exactly as I wanted it, but I started running out of time to turn the assignment in! :smile:
 
 ## Mamma Mia
  
